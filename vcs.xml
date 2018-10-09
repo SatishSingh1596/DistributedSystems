@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/SatishSingh1596/DistributedSystems.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/SatishSingh1596/DistrTestProg.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\kyle-\IdeaProjects" />
